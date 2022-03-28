@@ -1,4 +1,4 @@
-import logo from './celogo.png';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
