@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Buy stuff
+          Buy stuff here
         </a>
       </header>
     </div>
