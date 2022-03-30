@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagesstorage",
+  "policyUUID": "4489d42e",
+  "bucketName": "ceimagegallery-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
